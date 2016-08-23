@@ -18,7 +18,7 @@ Done!
 * Create a CSR and have the intermediate cert sign it
 
 ## Kudos
-* [jamielinux]((https://jamielinux.com/docs/openssl-certificate-authority/) for the tutorial and helping me understand.
+* [jamielinux](https://jamielinux.com/docs/openssl-certificate-authority/) for the tutorial and helping me understand.
 * [kintoandar](https://github.com/kintoandar) for the basic script.
 
 ## WARNING:
